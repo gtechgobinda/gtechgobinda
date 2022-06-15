@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/gtechgobinda" target="blank"><img src="https://img.shields.io/twitter/follow/gtechgobinda?logo=twitter&style=for-the-badge" alt="gtechgobinda" /></a> </p>
 
-- 💬 Ask me about **Blockchain,DeFi,Smart Contract**
+- 💬 Ask me about **Solidity,Blockchain,DeFi,Smart Contract**
 
 - 📫 How to reach me **gobindasahaofficial@gmail.com**
 
