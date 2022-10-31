@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcDEVTM9VmJ8YLzXfgIdzleQYbDp_60mRF3uaX3qGIp20QITBiUg5uVWsR8uBofz28xOYr4_P2OSwZVkzZFsOBsjwxY2e2Cznc1Rfyyt6qYlDRtVwfHSwDIwQH2IvOcu5tXgzBTxdqIqQLl6b5qWGp33-CXrJ_9am5SgTlI82WnF-BoBrUDvwEuOwi/s16000/Link-Sharing_1200x630_Blockchain.jpg)]
+<!-- [![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcDEVTM9VmJ8YLzXfgIdzleQYbDp_60mRF3uaX3qGIp20QITBiUg5uVWsR8uBofz28xOYr4_P2OSwZVkzZFsOBsjwxY2e2Cznc1Rfyyt6qYlDRtVwfHSwDIwQH2IvOcu5tXgzBTxdqIqQLl6b5qWGp33-CXrJ_9am5SgTlI82WnF-BoBrUDvwEuOwi/s16000/Link-Sharing_1200x630_Blockchain.jpg)] -->
 <h3 align="center">A passionate blockchain developer from India</h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
