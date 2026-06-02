@@ -22,7 +22,7 @@ Frontend Developer with **2+ years of experience** building scalable web applica
 - 🛠️ Delivered **9+ client projects** including e-commerce, service, and non-profit websites
 - 💬 Ask me about **JavaScript, React.js, TypeScript, Next.js**
 - 📫 Reach me at **gobindasahaofficial@gmail.com**
-- 🌍 Based in Habra, West Bengal, India
+- 🌍 Based in Kolkata, West Bengal, India
 
 ---
 
