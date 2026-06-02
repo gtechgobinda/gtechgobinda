@@ -81,20 +81,6 @@ Frontend Developer with **2+ years of experience** building scalable web applica
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gtechgobinda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="gtechgobinda" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gtechgobinda&show_icons=true&locale=en&theme=tokyonight" alt="gtechgobinda" />
-</p>
-
-<br clear="both"/>
-
----
-
 ### 🤝 Connect with Me
 
 <p align="left">
@@ -103,9 +89,6 @@ Frontend Developer with **2+ years of experience** building scalable web applica
   </a>
   <a href="https://www.linkedin.com/in/gtechgobinda/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gtechgobinda" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/gtechgobinda" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gtechgobinda" height="30" width="40" />
   </a>
   <a href="https://gtechgobinda.netlify.app" target="blank">
     <img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" height="25"/>
